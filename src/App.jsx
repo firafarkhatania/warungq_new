@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { ShoppingCart, Store, Plus, Minus, Trash2 } from 'lucide-react';
 import './App.css';
 
