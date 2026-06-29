@@ -69,12 +69,4 @@ Proyek ini telah diuji secara lokal dengan hasil berikut:
 - [src/App.css](src/App.css) — styling antarmuka utama
 - [public](public) — aset statis yang disediakan untuk aplikasi
 
-## Catatan Pengembangan
 
-Aplikasi ini masih berada pada tahap prototype. Untuk versi yang lebih lengkap, fitur yang bisa ditambahkan antara lain:
-
-- integrasi backend dan database,
-- autentikasi pengguna yang nyata,
-- manajemen stok barang,
-- laporan penjualan harian/bulanan,
-- dan integrasi pembayaran digital yang sesungguhnya.
