@@ -1,3 +1,7 @@
+Nama: Fira Farkhatania
+NIM : 101230035
+Kelas : TF23C
+
 # WarungQ New
 
 WarungQ New is a modern POS-style web app for a small food stall, built with React and Vite. It provides a simple interface for browsing menu items, adding products to a cart, choosing a payment method, and reviewing order history.
